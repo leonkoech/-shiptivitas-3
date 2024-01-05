@@ -20,6 +20,10 @@
 3. **Progress Tracking:** Users can monitor the progress of individual cards and overall project timelines.
 4. **Collaborative Insights:** Teams can collectively analyze charts to enhance collaboration and decision-making.
 
+### Implementation 
+![hypothesis-feature-s3](https://github.com/leonkoech/-shiptivitas-3/assets/39020723/bad0b0a9-1251-4572-8578-0defebf3b14e)
+
+
 This feature can provide users with a powerful tool to analyze and optimize their project management processes. 
 
 ---
