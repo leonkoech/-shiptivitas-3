@@ -3,7 +3,7 @@ Before looking at the tasks
  - My main Hypothesis is on [actionable](https://github.com/leonkoech/-shiptivitas-3/blob/master/actionable.md)
  - My main queries are on [answer.sql](https://github.com/leonkoech/-shiptivitas-3/blob/master/answer.sql)
  - Anything tagged as either `.png` or `.gif` is an image related to my answer 
- - Anything tagged `.py` is a command to run a specific query to generate the graphs; [daily_average_users.py](https://github.com/leonkoech/-shiptivitas-3/blob/master/daily_average_users) and (status_changes_by_card.py)[https://github.com/leonkoech/-shiptivitas-3/blob/master/daily_average_users]
+ - Anything tagged `.py` is a command to run a specific query to generate the graphs; [daily_average_users.py](https://github.com/leonkoech/-shiptivitas-3/blob/master/daily_average_users.py) and [status_changes_by_card.py](https://github.com/leonkoech/-shiptivitas-3/blob/master/status_changes_by_card.py)
  - And finally, here's the walkthrough of what other feature shiptivity can improve on. This is based on hypothesis one. 
  
 ![hypothesis 1 image](https://github.com/leonkoech/-shiptivitas-3/blob/master/hypothesis-feature-s3.jpeg)
