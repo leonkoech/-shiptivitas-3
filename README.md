@@ -1,3 +1,14 @@
+### Answers
+Before looking at the tasks 
+ - My main Hypothesis is on [actionable](https://github.com/leonkoech/-shiptivitas-3/blob/master/actionable.md)
+ - My main queries are on [answer.sql](https://github.com/leonkoech/-shiptivitas-3/blob/master/answer.sql)
+ - Anything tagged as either `.png` or `.gif` is an image related to my answer 
+ - Anything tagged `.py` is a command to run a specific query to generate the graphs; [daily_average_users.py](https://github.com/leonkoech/-shiptivitas-3/blob/master/daily_average_users) and (status_changes_by_card.py)[https://github.com/leonkoech/-shiptivitas-3/blob/master/daily_average_users]
+ - And finally, here's the walkthrough of what other feature shiptivity can improve on. This is based on hypothesis one. 
+ 
+![hypothesis 1 image](https://github.com/leonkoech/-shiptivitas-3/blob/master/hypothesis-feature-s3.jpeg)
+
+
 <p align="center">
 <a href="https://www.insidesherpa.com/virtual-internships/prototype/oRMogWRHeewqHzA7u/College%20Students%3A%20Learn%20how%20to%20work%20at%20a%20YC%20startup">
 <img src="https://s3-ap-southeast-2.amazonaws.com/insidesherpa-assets/yc/yc-blade.png"></a>
